@@ -15,7 +15,7 @@
     "FUNCTIONS_WORKER_RUNTIME": "node",
     "WEBSITE_SITE_NAME": "HospitalAppointmentBookingApp",
     "WEBSITE_AUTH_LOGOUT_PATH": "/.auth/logout",
-    "SqlConnectionString": "ENTER YOUR SQL CONNECTION STRING"
+    "SqlConnectionString": "Server=tcp:techimmersionworkshop.database.windows.net,1433;Initial Catalog=techimmersionworkshop;Persist Security Info=False;User ID=techimmersion;Password=CloudWorkshop@vit;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;"
   },
   "HOST" : {
     "CORS": "*"
